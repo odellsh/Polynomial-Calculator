@@ -7,6 +7,8 @@ Upon opening the exec, the user is asked to input 2 polynomials in a given forma
 ## Format
 
 [(2,2),(3,1),(7,0)]
+
 [(0,2),(4,1),(6,0)]
+
 The user must input the polynomail in [(value, exponent]) form. The format must be structured around the value of the highest polynomial. If a polynomial doesn't contain an exponent the other does contain, they must type (0, exponent) to ensure the calculations will be correct. 
 If you are doing an operand that only requires one polynomial, when you are prompted to input a second polynomial please press 'enter' to move on.
