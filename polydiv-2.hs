@@ -1,6 +1,6 @@
 {-
  - polynimial division
- - Sydney O'Dell, Sydney Magee, Emely Ovando
+ - Sydney O'Dell, Sydney M, Emely O
  -
  -}
 
